@@ -1,23 +1,40 @@
 # Other Projects
 
-## 🏨 Hotel Management App
-Small app built for a local business. Features booking management, customer profiles, and payments. (Flutter, Firebase)
-
 ## 🤖 AI Email Manager
 An AI-powered auto-responder and inbox manager for YouTubers handling brand deals.  
-- Automatically replies to incoming sponsorship/brand emails  
-- Manages threads and organizes opportunities  
-- Includes a custom UI for reviewing & editing responses  
-- **Backend:** Google Cloud Functions (TypeScript)  
-- **AI:** LLM integration for auto-responses  
-- **UI:** Custom-built interface for managing replies  
-- Status: prototype/private
+- Auto-replies to sponsorship/brand emails  
+- Organizes threads and manages opportunities  
+- Custom UI for reviewing and editing responses  
+- Tech: Flutter (UI), Google Cloud Functions (TypeScript), LLM integration  
+- Status: prototype/private  
+
+---
+
+## 🏨 Crypto-Powered Hotel App
+An MVP exploring a new privacy-focused model for hotel bookings.  
+- Built the MVP and full UI in Flutter  
+- Implemented map-based hotel browsing  
+- Brainstormed features and product vision with the team  
+- Integrated crypto APIs for privacy and payments  
+- Tech: Flutter, Firebase, blockchain APIs (prototype)  
+- Status: prototype/private  
+
+---
 
 ## 📤 Music Sharing Tool
-Utility to quickly share songs across multiple platforms. (Python, Flask)
+A lightweight app to simplify distributing music across platforms.  
+- Share songs to multiple streaming services in one step  
+- Metadata helpers for faster publishing  
+- Tech: Flutter  
+- Status: internal tool  
+
+---
 
 ## 🌐 Artist Link Hub
-A custom Linktree-style website with a connected app to plan link cards and organize content.  
-- Built with Flutter and Firebase 
-- Lightweight CMS features for content management  
+A custom Linktree-style website with a connected management app.  
+- Manage and schedule link cards via a Flutter-based CMS  
+- Organize and update content dynamically  
+- Tech: Flutter, Firebase  
+- Status: live  
+
 👉 [View live site](https://links.maxandersmusic.com/)
